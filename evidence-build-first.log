@@ -1,0 +1,358 @@
+Calculating task graph as no cached configuration is available for tasks: :app:assembleDebug :app:lintDebug
+> Task :core:designsystem:preBuild UP-TO-DATE
+> Task :core:data:generateDebugAssets UP-TO-DATE
+> Task :core:data:preBuild UP-TO-DATE
+> Task :feature:saved:preBuild UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :core:designsystem:generateDebugAssets UP-TO-DATE
+> Task :feature:cart:preBuild UP-TO-DATE
+> Task :feature:cart:generateDebugAssets UP-TO-DATE
+> Task :core:model:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :feature:catalog:preBuild UP-TO-DATE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :core:data:preDebugBuild UP-TO-DATE
+> Task :core:designsystem:preDebugBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :feature:catalog:generateDebugAssets UP-TO-DATE
+> Task :feature:cart:preDebugBuild UP-TO-DATE
+> Task :core:model:processResources NO-SOURCE
+> Task :feature:catalog:preDebugBuild UP-TO-DATE
+> Task :core:data:processDebugNavigationResources UP-TO-DATE
+> Task :core:data:generateDebugResources UP-TO-DATE
+> Task :feature:saved:preDebugBuild UP-TO-DATE
+> Task :core:data:javaPreCompileDebug UP-TO-DATE
+> Task :core:data:packageDebugResources UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :core:model:compileKotlin UP-TO-DATE
+> Task :core:model:compileJava NO-SOURCE
+> Task :core:model:classes UP-TO-DATE
+> Task :core:data:parseDebugLocalResources UP-TO-DATE
+> Task :core:model:jar UP-TO-DATE
+> Task :feature:saved:processDebugNavigationResources FROM-CACHE
+> Task :feature:cart:javaPreCompileDebug FROM-CACHE
+> Task :feature:cart:generateDebugResources FROM-CACHE
+> Task :feature:cart:processDebugNavigationResources FROM-CACHE
+> Task :feature:catalog:processDebugNavigationResources FROM-CACHE
+> Task :core:data:generateDebugRFile UP-TO-DATE
+> Task :core:designsystem:javaPreCompileDebug FROM-CACHE
+> Task :feature:catalog:generateDebugResources FROM-CACHE
+> Task :app:generateDebugResources
+> Task :feature:catalog:javaPreCompileDebug FROM-CACHE
+> Task :core:data:compileDebugKotlin UP-TO-DATE
+> Task :feature:saved:generateDebugResources FROM-CACHE
+> Task :feature:saved:javaPreCompileDebug FROM-CACHE
+> Task :core:data:compileDebugJavaWithJavac NO-SOURCE
+> Task :core:data:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature:saved:generateDebugAssets UP-TO-DATE
+> Task :feature:catalog:packageDebugResources
+> Task :core:data:mergeDebugAssets
+> Task :feature:cart:mergeDebugAssets
+> Task :feature:saved:mergeDebugAssets
+> Task :feature:catalog:mergeDebugAssets
+> Task :feature:catalog:parseDebugLocalResources FROM-CACHE
+> Task :core:designsystem:processDebugNavigationResources
+> Task :feature:saved:packageDebugResources
+> Task :core:designsystem:generateDebugResources
+> Task :core:data:processDebugJavaRes UP-TO-DATE
+> Task :feature:saved:parseDebugLocalResources FROM-CACHE
+> Task :app:desugarDebugFileDependencies
+> Task :core:data:bundleLibRuntimeToDirDebug
+> Task :feature:cart:packageDebugResources
+> Task :app:packageDebugResources
+> Task :feature:cart:parseDebugLocalResources FROM-CACHE
+> Task :feature:saved:generateDebugRFile
+> Task :feature:cart:generateDebugRFile
+> Task :core:data:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :core:data:writeDebugAarMetadata
+> Task :app:javaPreCompileDebug
+> Task :feature:catalog:writeDebugAarMetadata
+> Task :feature:cart:writeDebugAarMetadata
+> Task :app:mapDebugSourceSetPaths
+> Task :app:extractDeepLinksDebug
+> Task :app:createDebugCompatibleScreenManifests
+> Task :core:data:extractDeepLinksDebug
+> Task :core:designsystem:extractDeepLinksDebug FROM-CACHE
+> Task :core:designsystem:packageDebugResources
+> Task :core:designsystem:processDebugManifest
+> Task :core:data:processDebugManifest
+> Task :feature:cart:extractDeepLinksDebug FROM-CACHE
+> Task :feature:saved:writeDebugAarMetadata
+> Task :feature:cart:processDebugManifest
+> Task :feature:catalog:extractDeepLinksDebug FROM-CACHE
+> Task :feature:saved:extractDeepLinksDebug FROM-CACHE
+> Task :feature:saved:processDebugManifest
+> Task :core:data:mapDebugSourceSetPaths
+> Task :core:designsystem:writeDebugAarMetadata
+> Task :feature:catalog:processDebugManifest
+> Task :feature:catalog:generateDebugRFile
+> Task :core:designsystem:mapDebugSourceSetPaths
+> Task :core:designsystem:parseDebugLocalResources
+> Task :app:processDebugNavigationResources
+> Task :core:designsystem:mergeDebugAssets
+> Task :app:checkDebugDuplicateClasses
+> Task :core:designsystem:generateDebugRFile
+> Task :app:checkDebugAarMetadata
+> Task :app:processDebugMainManifest
+> Task :app:processDebugManifest
+> Task :app:compileDebugNavigationResources
+> Task :feature:cart:mapDebugSourceSetPaths
+> Task :feature:catalog:mapDebugSourceSetPaths
+> Task :feature:saved:mapDebugSourceSetPaths
+> Task :app:generateDebugGlobalSynthetics
+> Task :feature:saved:compileDebugLibraryResources
+> Task :app:mergeDebugJniLibFolders
+> Task :feature:catalog:compileDebugLibraryResources
+> Task :feature:cart:compileDebugLibraryResources
+> Task :feature:catalog:mergeDebugJniLibFolders
+> Task :feature:cart:mergeDebugJniLibFolders
+> Task :core:data:mergeDebugJniLibFolders
+> Task :core:designsystem:mergeDebugJniLibFolders
+> Task :feature:cart:mergeDebugNativeLibs NO-SOURCE
+> Task :feature:catalog:mergeDebugNativeLibs NO-SOURCE
+> Task :core:designsystem:mergeDebugNativeLibs NO-SOURCE
+> Task :core:data:mergeDebugNativeLibs NO-SOURCE
+> Task :feature:catalog:copyDebugJniLibsProjectOnly
+> Task :feature:cart:copyDebugJniLibsProjectOnly
+> Task :core:designsystem:copyDebugJniLibsProjectOnly
+> Task :core:data:copyDebugJniLibsProjectOnly
+> Task :app:writeDebugAppMetadata
+> Task :app:writeDebugSigningConfigVersions
+> Task :app:validateSigningDebug
+> Task :core:data:extractDeepLinksForAarDebug
+> Task :core:data:mergeDebugGeneratedProguardFiles
+> Task :core:data:mergeDebugConsumerProguardFiles
+> Task :core:data:prepareDebugArtProfile
+> Task :core:data:extractDebugAnnotations
+> Task :core:data:checkDebugAarMetadata
+> Task :core:data:prepareLintJarForPublish
+> Task :core:data:mergeDebugJavaResource
+> Task :core:data:syncDebugLibJars
+> Task :core:data:bundleDebugLocalLintAar
+> Task :core:designsystem:extractDeepLinksForAarDebug FROM-CACHE
+> Task :core:designsystem:prepareDebugArtProfile
+> Task :feature:saved:mergeDebugJniLibFolders
+> Task :feature:saved:mergeDebugNativeLibs NO-SOURCE
+> Task :core:designsystem:checkDebugAarMetadata
+> Task :feature:saved:copyDebugJniLibsProjectOnly
+> Task :app:mergeDebugAssets
+> Task :feature:catalog:checkDebugAarMetadata
+> Task :feature:catalog:extractDeepLinksForAarDebug FROM-CACHE
+> Task :feature:catalog:prepareDebugArtProfile
+> Task :feature:catalog:prepareLintJarForPublish
+> Task :app:mergeDebugNativeLibs
+> Task :app:compressDebugAssets
+> Task :feature:saved:extractDeepLinksForAarDebug FROM-CACHE
+> Task :feature:saved:prepareDebugArtProfile
+> Task :feature:saved:checkDebugAarMetadata
+> Task :feature:cart:checkDebugAarMetadata
+> Task :feature:cart:extractDeepLinksForAarDebug FROM-CACHE
+
+> Task :app:stripDebugDebugSymbols
+Unable to strip the following libraries, packaging them as they are: libandroidx.graphics.path.so. Run with --info option to learn more.
+
+> Task :feature:cart:prepareDebugArtProfile
+> Task :app:preDebugAndroidTestBuild SKIPPED
+> Task :core:data:createFullJarDebug
+> Task :core:data:writeDebugLintModelMetadata
+> Task :core:designsystem:writeDebugLintModelMetadata
+> Task :feature:cart:writeDebugLintModelMetadata
+> Task :feature:catalog:writeDebugLintModelMetadata
+> Task :feature:saved:writeDebugLintModelMetadata
+> Task :app:extractProguardFiles
+> Task :core:data:extractProguardFiles
+> Task :core:data:generateDebugLintModel
+> Task :core:designsystem:extractProguardFiles
+> Task :feature:cart:extractProguardFiles
+> Task :feature:catalog:extractProguardFiles
+> Task :feature:saved:extractProguardFiles
+> Task :app:preDebugUnitTestBuild UP-TO-DATE
+> Task :app:parseDebugLocalResources
+> Task :app:generateDebugRFile
+> Task :core:data:preDebugAndroidTestBuild UP-TO-DATE
+> Task :core:data:generateDebugAndroidTestLintModel
+> Task :core:data:preDebugUnitTestBuild UP-TO-DATE
+> Task :core:data:generateDebugUnitTestLintModel
+> Task :core:designsystem:compileDebugLibraryResources
+> Task :core:designsystem:prepareLintJarForPublish
+> Task :feature:saved:prepareLintJarForPublish
+> Task :core:designsystem:preDebugUnitTestBuild UP-TO-DATE
+> Task :core:designsystem:preDebugAndroidTestBuild UP-TO-DATE
+> Task :feature:cart:preDebugAndroidTestBuild UP-TO-DATE
+> Task :feature:catalog:preDebugAndroidTestBuild UP-TO-DATE
+> Task :feature:cart:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature:catalog:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature:saved:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature:saved:preDebugAndroidTestBuild UP-TO-DATE
+> Task :feature:cart:prepareLintJarForPublish
+> Task :core:data:compileDebugLibraryResources
+> Task :core:data:lintAnalyzeDebugAndroidTest
+> Task :app:processDebugManifestForPackage
+> Task :app:mergeDebugResources
+> Task :core:data:lintAnalyzeDebugUnitTest
+> Task :core:data:lintAnalyzeDebug
+> Task :app:processDebugResources
+> Task :core:designsystem:extractDebugAnnotations
+> Task :core:designsystem:compileDebugKotlin
+> Task :core:designsystem:compileDebugJavaWithJavac NO-SOURCE
+> Task :core:designsystem:mergeDebugGeneratedProguardFiles
+> Task :core:designsystem:mergeDebugConsumerProguardFiles
+> Task :core:designsystem:bundleLibCompileToJarDebug
+> Task :core:designsystem:bundleLibRuntimeToJarDebug
+> Task :core:designsystem:processDebugJavaRes
+> Task :core:designsystem:bundleLibRuntimeToDirDebug
+> Task :core:designsystem:createFullJarDebug
+> Task :feature:saved:extractDebugAnnotations
+> Task :feature:cart:extractDebugAnnotations
+> Task :feature:catalog:extractDebugAnnotations
+> Task :core:designsystem:mergeDebugJavaResource
+> Task :core:designsystem:syncDebugLibJars
+> Task :core:designsystem:bundleDebugLocalLintAar
+> Task :core:designsystem:generateDebugLintModel
+> Task :core:designsystem:generateDebugUnitTestLintModel
+> Task :core:designsystem:generateDebugAndroidTestLintModel
+> Task :core:designsystem:lintAnalyzeDebugAndroidTest
+> Task :core:designsystem:lintAnalyzeDebugUnitTest
+> Task :feature:saved:compileDebugKotlin
+> Task :feature:saved:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature:saved:mergeDebugGeneratedProguardFiles
+> Task :feature:saved:mergeDebugConsumerProguardFiles
+> Task :feature:saved:processDebugJavaRes
+> Task :feature:saved:bundleLibRuntimeToJarDebug
+> Task :feature:saved:bundleLibCompileToJarDebug
+> Task :feature:saved:createFullJarDebug
+> Task :feature:saved:mergeDebugJavaResource
+> Task :feature:saved:bundleLibRuntimeToDirDebug
+> Task :feature:saved:generateDebugLintModel
+> Task :feature:saved:syncDebugLibJars
+> Task :feature:saved:bundleDebugLocalLintAar
+> Task :feature:saved:generateDebugAndroidTestLintModel
+> Task :feature:saved:generateDebugUnitTestLintModel
+> Task :feature:saved:lintAnalyzeDebugUnitTest
+> Task :feature:saved:lintAnalyzeDebugAndroidTest
+> Task :feature:catalog:compileDebugKotlin
+> Task :feature:catalog:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature:catalog:mergeDebugGeneratedProguardFiles
+> Task :feature:catalog:mergeDebugConsumerProguardFiles
+> Task :feature:catalog:processDebugJavaRes
+> Task :feature:catalog:bundleLibCompileToJarDebug
+> Task :feature:catalog:bundleLibRuntimeToJarDebug
+> Task :feature:catalog:mergeDebugJavaResource
+> Task :feature:catalog:generateDebugLintModel
+> Task :feature:catalog:createFullJarDebug
+> Task :feature:catalog:bundleLibRuntimeToDirDebug
+> Task :feature:catalog:syncDebugLibJars
+> Task :feature:catalog:bundleDebugLocalLintAar
+
+> Task :feature:cart:compileDebugKotlin
+w: file:///Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/commerce-app/feature/cart/src/main/kotlin/staff/android/commerce/cart/CartScreen.kt:297:49 Condition is always 'true'.
+
+> Task :feature:cart:compileDebugJavaWithJavac NO-SOURCE
+> Task :feature:cart:mergeDebugGeneratedProguardFiles
+> Task :feature:cart:mergeDebugConsumerProguardFiles
+> Task :feature:cart:processDebugJavaRes
+> Task :feature:cart:bundleLibRuntimeToJarDebug
+> Task :feature:cart:bundleLibCompileToJarDebug
+> Task :app:kspDebugKotlin NO-SOURCE
+> Task :feature:cart:createFullJarDebug
+> Task :app:compileDebugKotlin NO-SOURCE
+> Task :feature:cart:mergeDebugJavaResource
+> Task :app:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:processDebugJavaRes NO-SOURCE
+> Task :app:hiltCollectClassesDebug UP-TO-DATE
+> Task :feature:cart:bundleLibRuntimeToDirDebug
+> Task :feature:catalog:generateDebugAndroidTestLintModel
+> Task :feature:cart:generateDebugLintModel
+> Task :feature:cart:syncDebugLibJars
+> Task :feature:catalog:generateDebugUnitTestLintModel
+> Task :feature:cart:bundleDebugLocalLintAar
+> Task :feature:cart:generateDebugAndroidTestLintModel
+> Task :feature:cart:generateDebugUnitTestLintModel
+> Task :feature:catalog:lintAnalyzeDebugAndroidTest
+> Task :feature:catalog:lintAnalyzeDebugUnitTest
+> Task :app:generateDebugLintReportModel
+> Task :feature:cart:lintAnalyzeDebugAndroidTest
+> Task :feature:cart:lintAnalyzeDebugUnitTest
+> Task :app:hiltAggregateDepsDebug
+> Task :app:hiltJavaCompileDebug NO-SOURCE
+> Task :app:bundleDebugClassesToCompileJar
+> Task :app:generateDebugUnitTestLintModel
+> Task :app:transformDebugClassesWithAsm
+> Task :app:generateDebugAndroidTestLintModel
+> Task :app:dexBuilderDebug
+> Task :app:mergeLibDexDebug
+> Task :app:lintAnalyzeDebugUnitTest
+> Task :app:mergeProjectDexDebug
+> Task :app:mergeDebugJavaResource
+> Task :app:lintAnalyzeDebugAndroidTest
+> Task :app:mergeExtDexDebug
+> Task :core:designsystem:lintAnalyzeDebug
+> Task :app:packageDebug
+> Task :app:assembleDebug
+> Task :app:createDebugApkListingFileRedirect
+> Task :feature:saved:lintAnalyzeDebug
+> Task :feature:cart:lintAnalyzeDebug
+> Task :feature:catalog:lintAnalyzeDebug
+> Task :app:lintAnalyzeDebug
+
+> Task :app:lintReportDebug
+Wrote HTML report to file:///Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/commerce-app/app/build/reports/lint-results-debug.html
+Wrote SARIF report to file:///Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/commerce-app/app/build/reports/lint-results-debug.sarif
+Lint found 3 errors and 2 warnings. First failure:
+/Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/commerce-app/app/src/main/AndroidManifest.xml:2: Error: Class referenced in the manifest, staff.android.commerce.CommerceApplication, was not found in the project or the libraries [MissingClass]
+ <application android:name=".CommerceApplication" android:label="Common Goods" android:theme="@style/Theme.CommonGoods" android:allowBackup="false" android:supportsRtl="true">
+                            ~~~~~~~~~~~~~~~~~~~~
+
+
+> Task :app:lintDebug FAILED
+Lint found 3 errors, 2 warnings. First failure:
+
+/Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/commerce-app/app/src/main/AndroidManifest.xml:2: Error: Class referenced in the manifest, staff.android.commerce.CommerceApplication, was not found in the project or the libraries [MissingClass]
+ <application android:name=".CommerceApplication" android:label="Common Goods" android:theme="@style/Theme.CommonGoods" android:allowBackup="false" android:supportsRtl="true">
+                            ~~~~~~~~~~~~~~~~~~~~
+
+The full lint text report is located at:
+  /Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/commerce-app/app/build/intermediates/lint_intermediate_text_report/debug/lintReportDebug/lint-results-debug.txt
+
+[Incubating] Problems report is available at: file:///Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/commerce-app/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:lintDebug' (registered by plugin 'com.android.internal.application').
+> Lint found errors in the project; aborting build.
+  
+  Fix the issues identified by lint, or create a baseline to see only new errors.
+  To create a baseline, run `gradlew updateLintBaseline` after adding the following to the module's build.gradle file:
+  ```
+  android {
+      lint {
+          baseline = file("lint-baseline.xml")
+      }
+  }
+  ```
+  For more details, see https://developer.android.com/studio/write/lint#snapshot
+  
+  Lint found 3 errors, 2 warnings. First failure:
+  
+  /Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/commerce-app/app/src/main/AndroidManifest.xml:2: Error: Class referenced in the manifest, staff.android.commerce.CommerceApplication, was not found in the project or the libraries [MissingClass]
+   <application android:name=".CommerceApplication" android:label="Common Goods" android:theme="@style/Theme.CommonGoods" android:allowBackup="false" android:supportsRtl="true">
+                              ~~~~~~~~~~~~~~~~~~~~
+  
+  The full lint text report is located at:
+    /Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/commerce-app/app/build/intermediates/lint_intermediate_text_report/debug/lintReportDebug/lint-results-debug.txt
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.8.0/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 33s
+238 actionable tasks: 205 executed, 21 from cache, 12 up-to-date
+Configuration cache entry stored.

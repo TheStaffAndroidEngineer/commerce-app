@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-10-06",
+  "generationTool": "built-in image_gen",
+  "mode": "generate",
+  "purpose": "Original fictional catalog photography for Common Goods, the book's commerce companion app.",
+  "referenceInputs": [],
+  "notes": [
+    "No real retailer screenshots, logos or product photographs were used as generation inputs.",
+    "Products are fictional, unbranded catalog illustrations; visual resemblance does not imply a real product specification.",
+    "Generated originals are preserved both under the built-in image generator destination and in assets/originals.",
+    "All seven generated images were visually inspected for subject, composition, consistency, legibility at catalog scale, and absence of prominent brand marks or watermark.",
+    "The separately generated hero depicts the same types of products, not a guaranteed identity-preserving composite of the individual product images."
+  ],
+  "assets": [
+    {
+      "name": "tea",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog photograph for an original premium everyday-goods Android shopping app. Create a beautifully composed photorealistic studio product photograph, square 1:1. Cool off-white seamless background and tabletop with soft believable contact shadows, large diffused daylight from upper left. Refined restrained editorial catalog style, crisp realistic material texture, no people. Center the complete product, occupying around 70% of the square with generous quiet margins. Camera slightly above front at a natural three-quarter angle. No brand names, logos, labels, text, watermark, decorative type or collage. Subject: a closed cylindrical deep charcoal and muted cobalt metal tea tin, with a very small neat scattering of loose black tea leaves alongside the base. Simple unbranded tin, premium subtle satin material. Single tin, no lid floating, no tea cup.",
+      "original": "/Users/rkpattanaik/.codex/generated_images/01a11245-4add-7061-b54f-47b1c2899178/exec-236b7e76-78b8-4ba1-a19a-e42c29cfae95.png",
+      "path": "core/designsystem/src/main/assets/tea.png",
+      "preservedOriginal": "assets/originals/tea.png",
+      "transformations": [],
+      "deliverySha256": "c4b8a841dbd80295992844aa9252a7989821f5b253ae49e64fba80553a7ff7e9",
+      "deliveryBytes": 2128257,
+      "deliveryDimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "originalSha256": "c4b8a841dbd80295992844aa9252a7989821f5b253ae49e64fba80553a7ff7e9",
+      "originalBytes": 2128257,
+      "originalDimensions": {
+        "width": 1254,
+        "height": 1254
+      }
+    },
+    {
+      "name": "camera",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog photograph for an original premium everyday-goods Android shopping app. Create a beautifully composed photorealistic studio product photograph, square 1:1. Cool off-white seamless background and tabletop with soft believable contact shadows, large diffused daylight from upper left. Refined restrained editorial catalog style, crisp realistic material texture, no people. Center the complete product, occupying around 70% of the square with generous quiet margins. Camera slightly above front at a natural three-quarter angle. No brand names, logos, labels, text, watermark, decorative type or collage. Subject: one compact unbranded mirrorless camera with a black textured grip, brushed silver top plate and a compact black lens attached, lens angled slightly toward viewer. Carefully detailed believable controls, black strap subtly tucked behind rather than surrounding the composition. No letterforms or numbers anywhere.",
+      "original": "/Users/rkpattanaik/.codex/generated_images/01a11245-4add-7061-b54f-47b1c2899178/exec-a85dc42d-0251-4314-8e8c-bc60039de056.png",
+      "path": "core/designsystem/src/main/assets/camera.png",
+      "preservedOriginal": "assets/originals/camera.png",
+      "transformations": [],
+      "deliverySha256": "cd2f09a53bc70bf4163c1b3e6ba6a8d596ca945face96e6b984c1c3c7df8b440",
+      "deliveryBytes": 2013206,
+      "deliveryDimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "originalSha256": "cd2f09a53bc70bf4163c1b3e6ba6a8d596ca945face96e6b984c1c3c7df8b440",
+      "originalBytes": 2013206,
+      "originalDimensions": {
+        "width": 1254,
+        "height": 1254
+      }
+    },
+    {
+      "name": "bag",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog photograph for an original premium everyday-goods Android shopping app. Create a beautifully composed photorealistic studio product photograph, square 1:1. Cool off-white seamless background and tabletop with soft believable contact shadows, large diffused daylight from upper left. Refined restrained editorial catalog style, crisp realistic material texture, no people. Center the complete product, occupying around 70% of the square with generous quiet margins. Camera slightly above front at a natural three-quarter angle. No brand names, logos, labels, text, watermark, decorative type or collage. Subject: one sage olive canvas everyday tote bag, structured softly with broad canvas carry handles and one front utility pocket, resting upright. Tactile heavyweight woven canvas, considered functional design, subtle seam detail, handles fully in frame. No leather logo patch, no brand mark.",
+      "original": "/Users/rkpattanaik/.codex/generated_images/01a11245-4add-7061-b54f-47b1c2899178/exec-825bea09-bf5b-4a4a-a1a1-fe2d7c6fce3d.png",
+      "path": "core/designsystem/src/main/assets/bag.png",
+      "preservedOriginal": "assets/originals/bag.png",
+      "transformations": [],
+      "deliverySha256": "b348cb224c7585903955ef98b6a0da070f7203e7cc7567febc5c28c2d1b0a6d8",
+      "deliveryBytes": 2553731,
+      "deliveryDimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "originalSha256": "b348cb224c7585903955ef98b6a0da070f7203e7cc7567febc5c28c2d1b0a6d8",
+      "originalBytes": 2553731,
+      "originalDimensions": {
+        "width": 1254,
+        "height": 1254
+      }
+    },
+    {
+      "name": "headphones",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog photograph for an original premium everyday-goods Android shopping app. Create a beautifully composed photorealistic studio product photograph, square 1:1. Cool off-white seamless background and tabletop with soft believable contact shadows, large diffused daylight from upper left. Refined restrained editorial catalog style, crisp realistic material texture, no people. Center the complete product, occupying around 70% of the square with generous quiet margins. Camera slightly above front at a natural three-quarter angle. No brand names, logos, labels, text, watermark, decorative type or collage. Subject: one pair of premium warm gray over-ear wireless headphones, rounded oval ear cushions and softly curved padded headband, sitting upright at a slight three-quarter angle, both cups visible. Matte finish and believable textile/leatherette surfaces, no cable, no stand.",
+      "original": "/Users/rkpattanaik/.codex/generated_images/01a11245-4add-7061-b54f-47b1c2899178/exec-2b747c4d-8552-43cb-b3ca-1ab1d410d1f6.png",
+      "path": "core/designsystem/src/main/assets/headphones.png",
+      "preservedOriginal": "assets/originals/headphones.png",
+      "transformations": [],
+      "deliverySha256": "d2534a4a3445ad7f13e0b310633bc052f97ab1dd6a10ffaaeea9a63109951001",
+      "deliveryBytes": 1828625,
+      "deliveryDimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "originalSha256": "d2534a4a3445ad7f13e0b310633bc052f97ab1dd6a10ffaaeea9a63109951001",
+      "originalBytes": 1828625,
+      "originalDimensions": {
+        "width": 1254,
+        "height": 1254
+      }
+    },
+    {
+      "name": "mug",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog photograph for an original premium everyday-goods Android shopping app. Create a beautifully composed photorealistic studio product photograph, square 1:1. Cool off-white seamless background and tabletop with soft believable contact shadows, large diffused daylight from upper left. Refined restrained editorial catalog style, crisp realistic material texture, no people. Center the complete product, occupying around 70% of the square with generous quiet margins. Camera slightly above front at a natural three-quarter angle. No brand names, logos, labels, text, watermark, decorative type or collage. Subject: one deep cobalt blue glazed ceramic mug with a rounded cylindrical body and generous curved handle on the right, empty. Subtle hand-finished glaze variation, rich blue sheen and believable thick lip, modern simple form. No saucer, no spoon, no other props.",
+      "original": "/Users/rkpattanaik/.codex/generated_images/01a11245-4add-7061-b54f-47b1c2899178/exec-14aa3840-4833-44bb-b8d8-9a59a5e9371c.png",
+      "path": "core/designsystem/src/main/assets/mug.png",
+      "preservedOriginal": "assets/originals/mug.png",
+      "transformations": [],
+      "deliverySha256": "c2f8a0127a8e7527a770dd8bece977a14070c3e3e46ab7378e3d021d17c680ff",
+      "deliveryBytes": 1949242,
+      "deliveryDimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "originalSha256": "c2f8a0127a8e7527a770dd8bece977a14070c3e3e46ab7378e3d021d17c680ff",
+      "originalBytes": 1949242,
+      "originalDimensions": {
+        "width": 1254,
+        "height": 1254
+      }
+    },
+    {
+      "name": "lamp",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog photograph for an original premium everyday-goods Android shopping app. Create a beautifully composed photorealistic studio product photograph, square 1:1. Cool off-white seamless background and tabletop with soft believable contact shadows, large diffused daylight from upper left. Refined restrained editorial catalog style, crisp realistic material texture, no people. Center the complete product, occupying around 70% of the square with generous quiet margins. Camera slightly above front at a natural three-quarter angle. No brand names, logos, labels, text, watermark, decorative type or collage. Subject: one soft ivory mushroom-shaped table lamp, broad rounded domed shade over a short tapered stem, softly illuminated with a warm gentle glow under its shade. Satin ceramic-like finish, high quality soft edge details, entire lamp in frame. No distracting cable and no other props.",
+      "original": "/Users/rkpattanaik/.codex/generated_images/01a11245-4add-7061-b54f-47b1c2899178/exec-87e7e8f8-1799-4ddc-a25d-671f101990a3.png",
+      "path": "core/designsystem/src/main/assets/lamp.png",
+      "preservedOriginal": "assets/originals/lamp.png",
+      "transformations": [],
+      "deliverySha256": "8fc8e32b68a2140a17afa7bbae6ab67221074013028380db7d6eb204e27ad48e",
+      "deliveryBytes": 1328483,
+      "deliveryDimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "originalSha256": "8fc8e32b68a2140a17afa7bbae6ab67221074013028380db7d6eb204e27ad48e",
+      "originalBytes": 1328483,
+      "originalDimensions": {
+        "width": 1254,
+        "height": 1254
+      }
+    },
+    {
+      "name": "weekend",
+      "prompt": "Use case: product-mockup. Asset type: landscape editorial collection hero for a premium Android shopping app. Generate a wide landscape photorealistic studio photograph, 3:2 composition. On a clean pale blue-gray seamless studio surface, arrange a sage olive canvas utility tote bag, compact unbranded black-and-silver mirrorless camera with compact lens, and premium warm gray over-ear headphones as a considered weekend collection. Place products together in the right half to right two-thirds of frame; keep the left third largely clear for separately rendered UI text. Tote upright in back, camera resting in front and headphones beside it; comfortable natural spacing and believable proportions. Premium understated retail art direction, soft diffused daylight from upper left, gentle contact shadows, tactile real canvas, brushed metal and soft headphones. Quiet cool off-white to blue-gray palette with the olive bag as accent. No people, no brand marks, no labels, no letters, no numbers, no text, no watermark. Do not add any extra product.",
+      "original": "/Users/rkpattanaik/.codex/generated_images/01a11245-4add-7061-b54f-47b1c2899178/exec-caf3fcfc-9152-4683-aa38-5a6579449a63.png",
+      "path": "core/designsystem/src/main/assets/weekend.png",
+      "preservedOriginal": "assets/originals/weekend.png",
+      "transformations": [],
+      "deliverySha256": "19e6359565db371bd059fa968dc418653073f9ad800af5bef4c6d037719ee737",
+      "deliveryBytes": 2180245,
+      "deliveryDimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "originalSha256": "19e6359565db371bd059fa968dc418653073f9ad800af5bef4c6d037719ee737",
+      "originalBytes": 2180245,
+      "originalDimensions": {
+        "width": 1536,
+        "height": 1024
+      }
+    }
+  ]
+}

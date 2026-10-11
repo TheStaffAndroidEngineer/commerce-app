@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bag",
+    "name": "Everyday bag",
+    "subtitle": "Carry a little less. Do a little more.",
+    "description": "A considered companion for the everyday: soft canvas, comfortable straps, and room for the things you reach for most.",
+    "category": "Carry",
+    "priceMinor": 249900,
+    "imageKey": "bag-v1",
+    "maxQuantity": 6,
+    "badge": "BESTSELLER"
+  },
+  {
+    "id": "headphones",
+    "name": "Studio headphones",
+    "subtitle": "Find your quiet.",
+    "description": "Over-ear headphones with a comfortable padded fit. A simple companion for focus, your favourite album, or the journey home.",
+    "category": "Tech",
+    "priceMinor": 799900,
+    "imageKey": "headphones-v1",
+    "maxQuantity": 4,
+    "badge": "NEW ARRIVAL"
+  },
+  {
+    "id": "tea",
+    "name": "Tea",
+    "subtitle": "A slower start to your morning.",
+    "description": "Loose-leaf breakfast tea with a rounded, comforting flavour. Brew a pot, take a breath, and make a small ritual of it. 100 g.",
+    "category": "Pantry",
+    "priceMinor": 49900,
+    "imageKey": "tea-v1",
+    "maxQuantity": 4,
+    "badge": null
+  },
+  {
+    "id": "camera",
+    "name": "Camera",
+    "subtitle": "Keep the moments that matter.",
+    "description": "A compact everyday camera with a tactile grip and a simple silhouette. Made for weekend walks and the unexpected details along the way.",
+    "category": "Tech",
+    "priceMinor": 4299900,
+    "imageKey": "camera-v1",
+    "maxQuantity": 2,
+    "badge": "THE WEEKEND EDIT"
+  },
+  {
+    "id": "lamp",
+    "name": "Arc table lamp",
+    "subtitle": "A warmer corner.",
+    "description": "A softly curved desk lamp that brings a warm pool of light to your bedside table, reading nook, or evening workspace.",
+    "category": "Home",
+    "priceMinor": 329900,
+    "imageKey": "lamp-v1",
+    "maxQuantity": 5,
+    "badge": null
+  },
+  {
+    "id": "mug",
+    "name": "Stoneware mug",
+    "subtitle": "A good cup deserves a good home.",
+    "description": "A glazed stoneware mug with a generous handle and a comfortable weight. Subtle variations in the finish make each cup feel personal.",
+    "category": "Home",
+    "priceMinor": 79900,
+    "imageKey": "mug-v1",
+    "maxQuantity": 8,
+    "badge": null
+  }
+]
