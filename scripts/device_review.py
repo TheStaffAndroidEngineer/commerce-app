@@ -2,7 +2,7 @@
 """Small host driver: select actual UI nodes, retain XML next to native screenshots."""
 import argparse, json, os, re, subprocess, time, xml.etree.ElementTree as ET
 from pathlib import Path
-ADB = os.environ.get('ADB', str(Path.home() / 'Library/Android/sdk/platform-tools/adb'))
+ADB = os.environ.get('ADB', str(Path(os.environ.get('ANDROID_HOME', str(Path.home() / 'Library/Android/sdk'))) / 'platform-tools/adb'))
 SERIAL = os.environ.get('ANDROID_SERIAL', 'emulator-5554')
 PACKAGE = 'staff.android.commerce'
 ROOT = Path(__file__).resolve().parents[1]
